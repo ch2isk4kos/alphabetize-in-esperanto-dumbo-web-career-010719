@@ -7,5 +7,5 @@ def alphabetize(arr)
       new_array.index(letter)
     end
   end
-  new_array
+
 end
