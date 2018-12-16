@@ -2,7 +2,7 @@ def alphabetize(arr)
   finished = false
   i = 0
   while !finished
-    
+
     if i != arr.length - 1
       str1 = arr[i]
       str2 = arr[i + 1]
